@@ -1,3 +1,6 @@
 [submodule "themes/minimal"]
 	path = themes/minimal
 	url = https://github.com/calintat/minimal.git
+[submodule "s4nchez.github.io"]
+	path = s4nchez.github.io
+	url = git@github.com:s4nchez/s4nchez.github.io.git
