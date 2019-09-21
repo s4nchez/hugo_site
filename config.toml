@@ -1,9 +1,10 @@
-baseURL = "http://example.com/"
+baseURL = "https://s4nchez.github.io/"
 languageCode = "en-us"
 title = "Minimal"
 theme = "minimal"
-disqusShortname = "username" # delete this to disable disqus comments
+#disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
+publishDir = "s4nchez.github.io"
 
 [params]
     author = "Calin Tataru"
