@@ -1,7 +1,7 @@
 baseURL = "https://s4nchez.github.io/"
 languageCode = "en-us"
-title = "Minimal"
-theme = "minimal"
+title = "Ivan Sanchez"
+theme = "sam"
 #disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
 publishDir = "s4nchez.github.io"
@@ -17,6 +17,10 @@ publishDir = "s4nchez.github.io"
     highlight = true
     highlightStyle = "solarized-dark"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+
+[[params.mainMenu]]
+    link = "/about"
+    text = "about"
 
 [[menu.main]]
     url = "/"

@@ -4,3 +4,6 @@
 [submodule "s4nchez.github.io"]
 	path = s4nchez.github.io
 	url = git@github.com:s4nchez/s4nchez.github.io.git
+[submodule "themes/sam"]
+	path = themes/sam
+	url = https://github.com/victoriadrake/hugo-theme-sam.git
