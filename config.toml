@@ -1,67 +1,47 @@
 baseURL = "https://s4nchez.github.io/"
-languageCode = "en-us"
+languageCode = "en-gb"
 title = "Ivan Sanchez"
-theme = "sam"
-#disqusShortname = "username" # delete this to disable disqus comments
+theme = "hermit"
 googleAnalytics = ""
 publishDir = "s4nchez.github.io"
 
+pygmentsCodefences  = true
+pygmentsUseClasses  = true
+copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
+
+[author]
+  name = "Ivan Sanchez"
+
 [params]
-    author = "Calin Tataru"
-    description = "Personal blog theme powered by Hugo"
-    githubUsername = "#"
-    accent = "red"
-    showBorder = true
-    backgroundColor = "white"
-    font = "Raleway" # should match the name on Google Fonts!
-    highlight = true
-    highlightStyle = "solarized-dark"
-    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+  dateform        = "2 Jan 2006"
+  dateformShort   = "2 Jan"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
 
-[[params.mainMenu]]
-    link = "/about"
-    text = "about"
+  themeColor = "#494f5c"
 
-[[menu.main]]
-    url = "/"
-    name = "Home"
-    weight = 1
+#  homeSubtitle = ""
+  footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+  justifyContent = false  # Set "text-align: justify" to `.content`.
+  relatedPosts = false  # Add a related content section to all single posts page
+  code_copy_button = true # Turn on/off the code-copy-button for code-fields
 
-[[menu.main]]
-    url = "/post/"
-    name = "Posts"
-    weight = 2
-
-[[menu.main]]
-    url = "/project/"
-    name = "Projects"
-    weight = 3
-
-# Social icons to be shown on the right-hand side of the navigation bar
-# The "name" field should match the name of the icon to be used
-# The list of available icons can be found at http://fontawesome.io/icons/
-
-[[menu.icon]]
-    url = "mailto:me@example.com"
-    name = "envelope-o"
-    weight = 1
-
-[[menu.icon]]
-    url = "https://github.com/username/"
-    name = "github"
-    weight = 2
-
-[[menu.icon]]
-    url = "https://twitter.com/username/"
+ [[params.social]]
     name = "twitter"
-    weight = 3
+    url = "https://twitter.com/s4nchez"
 
-[[menu.icon]]
-    url = "https://www.linkedin.com/in/username/"
-    name = "linkedin"
-    weight = 4
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/s4nchez"
 
-[[menu.icon]]
-    url = "https://www.stackoverflow.com/username/"
-    name = "stack-overflow"
-    weight = 5
+[menu]
+
+  [[menu.main]]
+    name = "Posts"
+    url = "posts/"
+    weight = 10
+
+  [[menu.main]]
+    name = "About"
+    url = "about/"
+    weight = 20
