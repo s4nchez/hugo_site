@@ -1,6 +1,6 @@
 ---
 title: "Deployments vs Releases"
-date: 2019-09-24T21:24:03+01:00
+date: 2018-10-30T21:00:00+01:00
 draft: false
 toc: false
 images:
