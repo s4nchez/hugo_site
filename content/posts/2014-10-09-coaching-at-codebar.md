@@ -1,7 +1,7 @@
 ---
 layout: post
-date: "2014-10-09 10:00"
 title: "Coaching at codebar.io"
+date: 2014-10-09T10:00:00+01:00
 ---
 Last night I had a chance to coach at a [Codebar](http://codebar.io/) event for the first time. They offer free basic programming and web development workshops to people who are underrepresented in the tech industry.
 

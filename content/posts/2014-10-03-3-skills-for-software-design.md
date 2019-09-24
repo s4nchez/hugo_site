@@ -1,7 +1,7 @@
 ---
 layout: post
-date: "2014-10-03 16:30"
 title: "3 key skills for software design"
+date: 2014-10-03T16:30:00+01:00
 ---
 
 On his [talk at the Java Zone 2014](http://vimeo.com/105771493), Kent Beck listed what he considers to be key skills in software design. According to him, they don't come naturally to programmers, but can be learned. Those skills are:

@@ -1,7 +1,7 @@
 ---
 layout: post
-date: "2014-12-01 10:00"
 title: "Closing the Loop"
+date: 2014-12-01T21:00:00+01:00
 ---
 As developers we should be experts in feedback: we want to learn about the consequences of our code changes as quickly as possible. For instance:
 

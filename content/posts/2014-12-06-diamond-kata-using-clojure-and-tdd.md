@@ -1,7 +1,7 @@
 ---
 layout: post
-date: "2014-12-06 18:00"
 title: "Diamond Kata using Clojure and TDD"
+date: 2014-12-06T21:00:00+01:00
 ---
 After seeing [Ron Jeffries' post](http://ronjeffries.com/articles/diamond3/three-of-diamonds.html) about different takes on the Diamond Kata, I've decided to try it as well.
 
