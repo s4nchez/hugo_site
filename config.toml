@@ -37,9 +37,10 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
 [menu]
 
   [[menu.main]]
-    name = "Posts"
+    name = "Blog"
     url = "posts/"
     weight = 10
+
 
   [[menu.main]]
     name = "About"
