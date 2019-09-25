@@ -2,7 +2,7 @@ baseURL = "https://isanchez.net/"
 languageCode = "en-gb"
 title = "Ivan Sanchez"
 theme = "hermit"
-googleAnalytics = ""
+googleAnalytics = "UA-6583325-1"
 publishDir = "s4nchez.github.io"
 
 pygmentsCodefences  = true
