@@ -34,6 +34,9 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
     name = "github"
     url = "https://github.com/s4nchez"
 
+[markup.goldmark.renderer]
+unsafe= true
+
 [menu]
 
   [[menu.main]]
