@@ -3,41 +3,48 @@
 <head>
     <meta charset="UTF-8">
     <title>Ivan Sanchez</title>
-    <link rel="stylesheet"
-          href="https://fonts.googleapis.com/css?family=Lato">
+    <link href="https://fonts.googleapis.com/css2?family=Lato&family=Ubuntu:wght@500&display=swap" rel="stylesheet">
     <style>
         body {
             font-family: 'Lato', serif;
             font-size: 16px;
         }
 
-        h1 {
-            font-weight: bold;
+        .landing header {
+            text-align: center;
         }
 
-        .social-icon {
+        .landing header h1 {
+            font-family: 'Ubuntu', serif;
+            font-size: 3.5em;
+
+        }
+
+        .landing .social-icon {
             height: 1.2em;
         }
 
-        footer {
+        .landing footer {
+            text-align: center;
             font-size: 0.8em;
         }
     </style>
 </head>
-<body>
+<body class="landing">
 <header>
     <h1>Ivan Sanchez</h1>
+    <a href="https://twitter.com/s4nchez"><img src="twitter.png" class="social-icon" alt="twitter"></a>
+    <a href="https://github.com/s4nchez"><img src="github.png" class="social-icon" alt="github"></a>
     <nav>
-        <a href="https://twitter.com/s4nchez"><img src="twitter.png" class="social-icon" alt="twitter"></a>
-        <a href="https://github.com/s4nchez"><img src="github.png" class="social-icon" alt="github"></a>
         <a href="/blog">Blog</a>
         <a href="/training">Training</a>
         <a href="/about">About</a>
     </nav>
 </header>
 <footer>
-    <p>© 2020 Ivan Sanchez · <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a> ·</p>
-    <a href="/posts/index.xml"><img src="rss.png" class="social-icon" alt="rss"></a>
+    <p>© 2020 Ivan Sanchez · <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a> ·
+        <a href="/posts/index.xml"><img src="rss.png" class="social-icon" alt="rss"></a>
+    </p>
 </footer>
 </body>
 </html>
