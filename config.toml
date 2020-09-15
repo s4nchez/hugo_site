@@ -53,3 +53,8 @@ unsafe= true
     name = "About"
     url = "about/"
     weight = 20
+
+  [[menu.main]]
+    name = "Speaking"
+    url = "speaking/"
+    weight = 15
