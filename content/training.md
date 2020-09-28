@@ -4,7 +4,7 @@ date: 2019-09-24T21:48:15+01:00
 draft: false
 ---
 
-## Training from the BACK of the Room
+## "Training from the BACK of the Room" Practitioner Class
 
 ![TBR-CT Logo](/images/TBR-CTLogo.jpg "Lamps in different shapes and sizes")
 
