@@ -43,7 +43,7 @@ At a minimum, the information flow needs to be available so they can make well-i
 
 High-performance organisations require cross-discipline/team collaboration, and great developers are well aware that their best output will come from working with other people.
 
-## Support their career development
+## Support career development
 
 Most adult developers don't enjoy the Personal Development Plans (PDPs) their employers force them to define and follow. That becomes even worse when those become tied to career progression and salary reviews.
 
