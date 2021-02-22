@@ -37,7 +37,7 @@ That shouldn't be limited to improvements to the code. Better tools, processes, 
 
 It's still common for organisations to treat software development as an isolated function that turns requirements from team A into software that team B will run and C will maintain.
 
-Adult developers want to understand the "why", help defining the "what", and direct the "how". That means collaborating with all the people their work has an impact.
+Adult developers want to understand the "why", help defining the "what", and direct the "how". That means collaborating with all the people impacted by their work.
 
 At a minimum, the information flow needs to be available so they can make well-informed decisions. And in return, developers should be able to share constraints and implications of those directions in a way others can understand.
 
