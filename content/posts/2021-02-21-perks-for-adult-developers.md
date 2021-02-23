@@ -2,7 +2,7 @@
 title: "Perks for adult developers"
 date: 2021-02-22T20:00:00+01:00
 toc: true
-draft: true
+draft: false
 description: Tips to attract and retain adult developers
 ---
 In addition to good salary, there are many ways companies try to attract and retain good people.
