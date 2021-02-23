@@ -5,7 +5,7 @@ toc: true
 draft: false
 description: Tips to attract and retain adult developers
 ---
-In addition to good salary, there are many ways companies try to attract and retain good people.
+In addition to a good salary, there are many ways companies try to attract and retain good people.
 
 Those benefits tend to say a lot about the organisation culture, which explains why companies bragging about their ping-pong tables have become a running joke in the industry.
 
