@@ -21,7 +21,7 @@ It was also fun to move away from a language that felt old and verbose, and disc
 
 Soon, my interest in Kotlin resulted in co-creating [http4k], a Functional toolkit for Kotlin HTTP applications, and running the [Real World Kotlin Development workshop][rwk] to help other teams attempting to make the same transition.
 
-Eventually, I've moved to other positions but was lucky enough to see Kotlin used on the server-side in various other projects. And I also experienced firsthand different people being strongly reluctant to adopt Kotlin for multiple reasons.
+Eventually, I've moved to other positions but was lucky enough to see Kotlin used on the server-side in various other projects. And I also experienced firsthand a number of reasons for teams to be strongly reluctant to adopt Kotlin.
 
 It's curious to see that the resistance doesn't always arise from the actual language merits. So why hasn't the Java server-side community adopted Kotlin more heavily?
 
