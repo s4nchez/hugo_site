@@ -53,7 +53,7 @@ On the other hand, I'm yet to see a Java developer "fall behind" because they we
 
 That was a common objection we saw around 2017. In that year, Google embraced Kotlin as a first-class language for Android development, reassuring us that big players are interested in the language's longevity.
 
-Today, this is probably less common, given that popular frameworks like Spring and Micronaut seem to have embraced the new language.
+Today, this is probably less common, given that popular frameworks like [Spring] and [Micronaut] seem to have embraced the new language.
 
 Hopefully, that'll give enough visibility to the language for more server-side people to give it a try.
 
@@ -128,6 +128,8 @@ Thank you [Uberto Barbini], [Dmitry Kandalov], [David Denton], and Kevin Denver 
 [Totallylazy]: https://totallylazy.com/
 [google-io]: https://blog.jetbrains.com/kotlin/2017/05/kotlin-on-android-now-official/
 [http4k]: https://http4k.org
+[Spring]: https://spring.io/guides/tutorials/spring-boot-kotlin/
+[Micronaut]: https://guides.micronaut.io/creating-your-first-micronaut-app-kotlin/guide/index.html
 [salary]: https://www.itjobswatch.co.uk/default.aspx?q=kotlin%2C+java
 [rwk]: http://web.archive.org/web/20191105124733/https://skillsmatter.com/courses/602-real-world-kotlin-development-workshop
 [why-kotlin]: https://kotlinlang.org/#why-kotlin
