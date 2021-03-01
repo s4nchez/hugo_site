@@ -19,7 +19,7 @@ I was blown away by the impact Kotlin had on our codebase. It felt more producti
 
 It was also fun to move away from a language that felt old and verbose, and discover what coding styles fit well with Kotlin's features. The excellent interoperability with Java meant that we could rely on the existing ecosystem and transition systems incrementally, without significant disruption to getting things done.
 
-Soon, my interest in Kotlin resulted in co-creating [http4k], a Functional toolkit for Kotlin HTTP applications, and running the [Real World Kotlin Development workshop][rwk] not very long after.
+Soon, my interest in Kotlin resulted in co-creating [http4k], a Functional toolkit for Kotlin HTTP applications, and running the [Real World Kotlin Development workshop][rwk] to help other teams attempting to make the same transition.
 
 Eventually, I've left that organisation but was lucky enough to see Kotlin used on the server-side in various other projects. And I also experienced firsthand different people being strongly reluctant to adopt Kotlin for multiple reasons.
 
