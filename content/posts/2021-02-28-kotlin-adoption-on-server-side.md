@@ -29,7 +29,7 @@ Here are some reasons my colleagues and I have encountered:
 
 ## "We don't have time to learn a new language."
 
-That's a variation of "we can't sharpen our axe because we're too busy chopping trees". It's usually a sign of deeper issues like mounting technical debt and general productivity issues.
+That's a variation of "too busy chopping wood to sharpen the axe" we commonly see in software projects. It's usually a sign of deeper issues like mounting technical debt and general productivity issues.
 
 Healthy software projects always involve a fair amount of learning. And a competent Java developer can get the basics of Kotlin in hours and will be reasonably productive in days.
 
