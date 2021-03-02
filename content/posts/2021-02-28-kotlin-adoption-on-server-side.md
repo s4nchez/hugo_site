@@ -133,6 +133,7 @@ Having said that, I'd still encourage more developers working on Java server-sid
 
 ----------
 Thank you [Uberto Barbini], [Dmitry Kandalov], [David Denton], and [Kevin Denver] for the extra ideas and review of this post.
+
 Image credit to [Victor Rodriguez @ Unsplash](https://unsplash.com/photos/pWOdBS_l9LQ)
 
 [Utterlyidle]: https://github.com/bodar/utterlyidle
