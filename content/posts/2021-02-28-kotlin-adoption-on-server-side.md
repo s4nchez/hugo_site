@@ -109,7 +109,7 @@ In our experience, however, that's the exception and not the rule. More often th
 
 It's also hard to experience the benefits of Kotlin until trying on a real project, and introducing a new language, even as an experiment, can cause a lot of anxiety.
 
-In those cases, we recommend ["Learning on the Job"][deming] (in the form of coding dojos, brown-bag sessions, etc.) to create a safe environment where this kind of learning can happen.
+In those cases, we recommend ["Learning on the Job"][deming] (in the form of coding dojos, brown-bag sessions, etc.) to create a safe environment where this kind of experimentation can happen.
 
 This approach allows the team to assess both their use of Java and if it's worth investing in Kotlin.
 
