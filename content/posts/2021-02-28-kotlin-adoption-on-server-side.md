@@ -3,7 +3,7 @@ title: "Reasons Java server-side developers are not adopting Kotlin"
 date: 2021-02-28T20:00:00+01:00
 toc: false
 draft: true
-description: The Java server-side hasn't adopted Kotlin heavily yet, and the resistance doesn't always arise from the actual language merits.
+description: The Java server-side community hasn't adopted Kotlin heavily yet, and the resistance doesn't always arise from the actual language merits.
 ---
 ***TL;DR - What I see in the wild is that Kotlin adoption on the server-side is slow due to a mix of complacency, career self-preservation, and lack of Kotlin visibility. In some specific cases, though, avoiding the adoption is entirely justified.***
 
