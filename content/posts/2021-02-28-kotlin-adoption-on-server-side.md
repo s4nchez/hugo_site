@@ -11,7 +11,7 @@ It's now almost five years since I wrote my first lines of Kotlin, after using J
 
 Our team didn't follow the typical Java playbook: we used [Utterlyidle] instead of Spring and embraced a Functional Programming approach with [Totallylazy]. We were big fans of IntelliJ and tried to take full advantage of the tooling it provided for Java.
 
-At that time, we were already looking beyond Java. There was some interest in Scala at the time, and we had a few services already written in it. But the complexity,  pain to work alongside a Java codebase, and slow build times made that language unappealing to most of us.
+At that time, we were already looking beyond Java. There was some interest in Scala by some teams, and we had a few services already written in it. But the complexity, pain to work alongside a Java codebase, and slow build times made that language unappealing to most of us.
 
 When Google [announced][google-io] Kotlin was becoming an official language for Android development in 2017, another team close to us evaluated the language for their server-side development. Eventually, most of us were giving it a try.
 
