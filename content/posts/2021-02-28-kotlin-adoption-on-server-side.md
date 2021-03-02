@@ -128,7 +128,7 @@ Adopting a new programming language, especially on ongoing projects, poses a cha
 Having said that, I'd still encourage more developers working on Java server-side to give Kotlin a try if they get a chance. If nothing else, it may highlight other areas of improvement beyond the code.
 
 ----------
-Thank you [Uberto Barbini], [Dmitry Kandalov], [David Denton], and Kevin Denver for the ideas for this post.
+Thank you [Uberto Barbini], [Dmitry Kandalov], [David Denton], and [Kevin Denver] for the extra ideas and review of this post.
 
 [Utterlyidle]: https://github.com/bodar/utterlyidle
 [Totallylazy]: https://totallylazy.com/
@@ -143,3 +143,4 @@ Thank you [Uberto Barbini], [Dmitry Kandalov], [David Denton], and Kevin Denver 
 [Uberto Barbini]:  https://twitter.com/ramtop
 [Dmitry Kandalov]: https://twitter.com/dmitrykandalov
 [David Denton]: http://dentondav.id/
+[Kevin Denver]: https://github.com/ToastShaman
