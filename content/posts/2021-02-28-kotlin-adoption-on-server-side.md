@@ -119,7 +119,7 @@ Sometimes Java developers are unaware of the language limitations or are too use
 
 Without getting into details, we could say that Kotlin's conciseness and safety are its [main advantages][why-kotlin]. However, some will claim they don't see an issue with Java's verbosity and write safe code already.
 
-It's easy to dismiss Kotlin until you have tried, and when faced with the option, a few people will continue to look for reasons not to try.
+It's easy to dismiss Kotlin before trying it, and when faced with the option, a few people will continue to look for reasons not to try.
 
 ----------
 Thank you [Uberto Barbini], [Dmitry Kandalov], [David Denton], and Kevin Denver for the ideas for this post.
