@@ -121,6 +121,12 @@ Without getting into details, we could say that Kotlin's conciseness and safety 
 
 It's easy to dismiss Kotlin before trying it, and when faced with the option, a few people will continue to look for reasons not to try.
 
+### Final thoughts
+
+Adopting a new programming language, especially on ongoing projects, poses a challenge for most teams. It's also important to accept that the resistance to change is highly context-specific and will come from project needs and personal reasons, as well the language itself.
+
+Having said that, given the chance I'd still encourage more developers working on Java server-side to give Kotlin a try. If nothing else, it may highlight other areas of improvement beyond the code.
+
 ----------
 Thank you [Uberto Barbini], [Dmitry Kandalov], [David Denton], and Kevin Denver for the ideas for this post.
 
