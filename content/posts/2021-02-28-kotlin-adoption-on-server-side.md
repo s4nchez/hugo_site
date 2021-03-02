@@ -73,7 +73,7 @@ This one is hard to assess: looking at [salary websites][salary], one could conc
 
 That's a hard comparison to make if we want to consider server-side developers only. In general, that's the Java area that pays the highest, and there's not enough data on the Kotlin side to compare.
 
-Anecdotally, we see in practice that senior Kotlin developers are often the first ones adopting Kotlin, which may give the impression that Kotlin developers are expensive.
+Anecdotally, we see in practice that senior Java developers are often the first ones adopting Kotlin, which may give the impression that Kotlin developers are expensive.
 
 On the recruiting side, we haven't seen issues attracting Kotlin developers. We are clear that the job requires the new language and accept that developers will learn it on the job.
 
