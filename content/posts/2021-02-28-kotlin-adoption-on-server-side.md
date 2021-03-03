@@ -83,7 +83,7 @@ On the recruiting side, we haven't seen issues attracting Kotlin developers. We 
 
 That seems to put Java developers at ease and attract those keen to learn new things, which is also a good indicator of potential fit.
 
-## "Kotlin is (already) too complicated."
+## "Kotlin is too complicated."
 
 One of the reasons Kotlin makes for a compelling alternative to languages like Scala is that it struck a decent balance between developer ease of use and advanced features to make operability with Java and adoption by popular frameworks possible.
 
