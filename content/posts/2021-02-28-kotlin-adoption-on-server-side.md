@@ -1,8 +1,8 @@
 ---
 title: "Reasons Java server-side developers are not adopting Kotlin"
 date: 2021-02-28T20:00:00+01:00
-toc: false
-draft: true
+toc: true
+draft: false
 images:
 - /images/jump.jpg
 description: The Java server-side community hasn't adopted Kotlin heavily yet, and the resistance doesn't always arise from the actual language merits.
