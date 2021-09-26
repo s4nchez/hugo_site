@@ -1,6 +1,6 @@
 ---
 title: "App Anatomy"
-date: 2021-09-25T20:00:00+01:00
+date: 2021-09-25T09:00:00+01:00
 toc: true
 draft: false
 images:
@@ -100,6 +100,16 @@ By requiring internal development it also means App Anatomy is a solution that d
 Finally, there are also ongoing costs to maintain such a solution. Most organisations will benefit from iterating on their solution, and keep educating new teams and individuals on the approach. Also, App Anatomy tooling itself requires infrastructure to run.
 
 Still, for organisations trying to scale their Continuous Delivery capabilities, the benefits of App Anatomy are likely to outweigh these costs over time, as it reduces the variance of solutions to the same problem and unlocks building solutions that all teams (and the organisation as a whole) can benefit at once.
+
+## Background
+
+I've first came across this pattern at a large scientific publisher in London. 
+
+Although the origin of the "app anatomy" name and pattern are unclear, the implementation led by [Steve Freeman](https://twitter.com/sf105), [Ivan Moore](https://twitter.com/ivanrmoore), and a small "tools engineering team" made dozens of teams extremely effective at shipping high quality software to production quickly and with low friction.
+
+There's a [talk](https://skillsmatter.com/skillscasts/6925-a-meta-pipeline-for-generating-continuous-delivery-pipelines-for-microservices) by [Hilverd Reker](https://twitter.com/hilverd) and [Steve Freeman](https://twitter.com/sf105) that goes into more details of that particular implementation, and provides a good taste of this pattern in practice.
+
+Thank you [Ivan Moore](https://twitter.com/ivanrmoore), [Nat Pryce](https://twitter.com/natpryce), [Matt Savage](https://twitter.com/savagematt), [David Denton](https://twitter.com/tarkaTheRotter), and [James Shiell](https://twitter.com/jshiell) for the various conversations around this topic and input for this article.
 
 ---
 Photo from Joyce McCown via [unsplash](https://unsplash.com/photos/IG96K_HiDk0)
