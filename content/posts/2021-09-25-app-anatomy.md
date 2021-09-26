@@ -103,11 +103,11 @@ Still, for organisations trying to scale their Continuous Delivery capabilities,
 
 ## Background
 
-I've first came across this pattern at a large scientific publisher in London. 
+I've first come across this pattern at a large scientific publisher in London. 
 
-Although the origin of the "app anatomy" name and pattern are unclear, the implementation led by [Steve Freeman](https://twitter.com/sf105), [Ivan Moore](https://twitter.com/ivanrmoore), and a small "tools engineering" team made dozens of teams extremely effective at shipping high quality software to production quickly and with low friction.
+Although the origins of the "app anatomy" name and pattern are unclear, the implementation led by [Steve Freeman](https://twitter.com/sf105), [Ivan Moore](https://twitter.com/ivanrmoore), and a small "tools engineering" team made dozens of teams extremely effective at shipping high-quality software to production quickly and with low friction.
 
-There's a [talk](https://skillsmatter.com/skillscasts/6925-a-meta-pipeline-for-generating-continuous-delivery-pipelines-for-microservices) by [Hilverd Reker](https://twitter.com/hilverd) and [Steve Freeman](https://twitter.com/sf105) that goes into more details of that particular implementation, and provides a good taste of this pattern in practice.
+There's a [talk](https://skillsmatter.com/skillscasts/6925-a-meta-pipeline-for-generating-continuous-delivery-pipelines-for-microservices) by [Hilverd Reker](https://twitter.com/hilverd) and [Steve Freeman](https://twitter.com/sf105) that goes into more details of that particular implementation and provides a good taste of this pattern in practice.
 
 Thank you [Ivan Moore](https://twitter.com/ivanrmoore), [Nat Pryce](https://twitter.com/natpryce), [Matt Savage](https://twitter.com/savagematt), [David Denton](https://twitter.com/tarkaTheRotter), and [James Shiell](https://twitter.com/jshiell) for the various conversations around this topic and input for this article.
 
