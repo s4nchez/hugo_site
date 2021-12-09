@@ -1,11 +1,11 @@
 ---
-title: "App Anatomy"
+title: "App Anatomy: a sociotechnical pattern for continuous delivery infrastructure"
 date: 2021-09-25T09:00:00+01:00
 toc: true
 draft: false
 images:
 - /images/jump.jpg
-description: A sociotechnical pattern for continuous delivery infrastructure
+description: App Anatomy - a sociotechnical pattern for continuous delivery infrastructure
 ---
 ![alt text](/images/anatomy.jpg "Human anatomy illustration")
 
