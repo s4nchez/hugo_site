@@ -1,0 +1,51 @@
+baseURL: 'https://isanchez.net/'
+languageCode: en-gb
+title: Ivan Sanchez
+theme: hugo-PaperMod
+googleAnalytics: UA-6583325-1
+publishDir: s4nchez.github.io
+pygmentsCodefences: true
+pygmentsUseClasses: true
+copyright: >-
+  This work is licensed under a Creative Commons Attribution-NonCommercial 4.0
+  International License.
+author:
+  name: Ivan Sanchez
+params:
+  dateform: 2 Jan 2006
+  dateformShort: 2 Jan
+  dateformNum: '2006-01-02'
+  dateformNumTime: '2006-01-02 15:04 -0700'
+  defaultTheme: auto
+  socialIcons:
+    - name: twitter
+      url: 'https://twitter.com/s4nchez'
+    - name: github
+      url: 'https://github.com/s4nchez'
+    - name: linkedin
+      url: 'https://www.linkedin.com/in/s4nchez'
+    - name: medium
+      url: 'https://s4nchez.medium.com'
+  profileMode:
+    enabled: true
+    title: Ivan Sanchez
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+menu:
+  main:
+    - name: Training
+      url: training/
+      weight: 10
+    - name: Blog
+      url: posts/
+      weight: 10
+    - name: About
+      url: about/
+      weight: 20
+    - name: Speaking
+      url: speaking/
+      weight: 15
+
